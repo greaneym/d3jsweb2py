@@ -1,3 +1,2 @@
-This is a simple sample of using the python web framework, web2py, with jQuery navigable tabs, and incorporating some simple D3.js graphs.  The database object layer, DAL, is not used in this example.  
-
-
+This is a very simple example, combining the python web framework, web2py, with
+jQuery navigation tabs menu and D3.js visualizations. 
